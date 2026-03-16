@@ -26,7 +26,9 @@ Aplikasi menggunakan Supabase Auth untuk sistem login dan register. Setiap petug
 
 ### 2.2 Dark Mode & Light Mode
 
-[screenshot tema]
+![Screenshot App](images/home.png)
+
+![Screenshot App](images/home d.png)
 
 Pengguna dapat mengubah tema aplikasi antara Light Mode dan Dark Mode dengan tombol toggle di AppBar.
 
