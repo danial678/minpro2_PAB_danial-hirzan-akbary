@@ -14,15 +14,51 @@ Aplikasi memungkinkan petugas untuk:
 
 ## 2. Fitur Aplikasi
 
-| No | Fitur | Penjelasan |
-|----|-------|------------|
-| 1 | **Autentikasi** | Login dan Register menggunakan Supabase Auth, setiap user memiliki akun sendiri |
-| 2 | **CRUD Data** | Create, Read, Update, Delete data konservasi penyu ke database Supabase |
-| 3 | **Dual Theme** | Dark Mode dan Light Mode dengan toggle dinamis di AppBar |
-| 4 | **Real-time Data** | Data tersimpan di cloud Supabase, bisa diakses dari device mana saja |
-| 5 | **Keamanan Data** | Row Level Security (RLS) memastikan user hanya bisa melihat data miliknya sendiri |
-| 6 | **Form Validasi** | Validasi input sederhana untuk memastikan data lengkap |
-| 7 | **Pull to Refresh** | Tarik layar ke bawah untuk memperbarui data terbaru |
+### 2.1 Autentikasi (Login & Register)
+
+"C:\Users\Acer-GK\OneDrive\Pictures\Screenshots\Screenshot 2026-03-16 050544.png"
+
+Aplikasi menggunakan Supabase Auth untuk sistem login dan register. Setiap petugas memiliki akun sendiri untuk menjaga keamanan data.
+
+---
+
+### 2.2 Dark Mode & Light Mode
+
+[screenshot tema]
+
+Pengguna dapat mengubah tema aplikasi antara Light Mode dan Dark Mode dengan tombol toggle di AppBar.
+
+---
+
+### 2.3 Halaman List Data Konservasi
+
+[screenshot home]
+
+Menampilkan semua data konservasi dalam bentuk Card yang berisi informasi nama penyu, lokasi, jumlah telur, tanggal, dan status.
+
+---
+
+### 2.4 Tambah Data Konservasi
+
+[screenshot form tambah]
+
+Form untuk menambah data baru dengan field: nama penyu, lokasi sarang, jumlah telur, tanggal bertelur, status telur, dan jumlah tukik.
+
+---
+
+### 2.5 Edit Data Konservasi
+
+[screenshot form edit]
+
+Pengguna dapat mengedit data yang sudah ada melalui menu popup di setiap card.
+
+---
+
+### 2.6 Hapus Data Konservasi
+
+[screenshot dialog hapus]
+
+Fitur hapus data dengan dialog konfirmasi untuk mencegah penghapusan accidental.
 
 ---
 
