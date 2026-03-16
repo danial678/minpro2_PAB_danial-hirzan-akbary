@@ -16,7 +16,10 @@ Aplikasi memungkinkan petugas untuk:
 
 ### 2.1 Autentikasi (Login & Register)
 
-![Screenshot App](assets/images/homepage.png)
+![Screenshot App](images/login.png)
+
+![Screenshot App](images/regis.png)
+
 Aplikasi menggunakan Supabase Auth untuk sistem login dan register. Setiap petugas memiliki akun sendiri untuk menjaga keamanan data.
 
 ---
