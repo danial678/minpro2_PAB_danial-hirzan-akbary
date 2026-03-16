@@ -16,8 +16,7 @@ Aplikasi memungkinkan petugas untuk:
 
 ### 2.1 Autentikasi (Login & Register)
 
-"C:\Users\Acer-GK\OneDrive\Pictures\Screenshots\Screenshot 2026-03-16 050544.png"
-
+![Screenshot App](assets/images/homepage.png)
 Aplikasi menggunakan Supabase Auth untuk sistem login dan register. Setiap petugas memiliki akun sendiri untuk menjaga keamanan data.
 
 ---
