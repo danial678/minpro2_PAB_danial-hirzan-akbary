@@ -28,7 +28,7 @@ Aplikasi menggunakan Supabase Auth untuk sistem login dan register. Setiap petug
 
 ![Screenshot App](images/home.png)
 
-![Screenshot App](images/home d.png)
+![Screenshot App](images/homed.png)
 
 Pengguna dapat mengubah tema aplikasi antara Light Mode dan Dark Mode dengan tombol toggle di AppBar.
 
@@ -36,7 +36,7 @@ Pengguna dapat mengubah tema aplikasi antara Light Mode dan Dark Mode dengan tom
 
 ### 2.3 Halaman List Data Konservasi
 
-[screenshot home]
+![Screenshot App](images/read.png)
 
 Menampilkan semua data konservasi dalam bentuk Card yang berisi informasi nama penyu, lokasi, jumlah telur, tanggal, dan status.
 
@@ -44,7 +44,7 @@ Menampilkan semua data konservasi dalam bentuk Card yang berisi informasi nama p
 
 ### 2.4 Tambah Data Konservasi
 
-[screenshot form tambah]
+![Screenshot App](images/tambah.png)
 
 Form untuk menambah data baru dengan field: nama penyu, lokasi sarang, jumlah telur, tanggal bertelur, status telur, dan jumlah tukik.
 
@@ -52,7 +52,7 @@ Form untuk menambah data baru dengan field: nama penyu, lokasi sarang, jumlah te
 
 ### 2.5 Edit Data Konservasi
 
-[screenshot form edit]
+![Screenshot App](images/edit.png)
 
 Pengguna dapat mengedit data yang sudah ada melalui menu popup di setiap card.
 
@@ -60,7 +60,7 @@ Pengguna dapat mengedit data yang sudah ada melalui menu popup di setiap card.
 
 ### 2.6 Hapus Data Konservasi
 
-[screenshot dialog hapus]
+![Screenshot App](images/hapus.png)
 
 Fitur hapus data dengan dialog konfirmasi untuk mencegah penghapusan accidental.
 
